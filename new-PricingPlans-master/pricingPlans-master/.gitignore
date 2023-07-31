@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/intellij,git,node,linux,windows,sublimetext,sonar
 
-dist/
+# dist/
 pacts/*
 pricingPlan.db
 
